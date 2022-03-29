@@ -762,14 +762,14 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/AdrianCSM/To-Do-List.git"
+      "url": "git+https://github.com/AdrianCSM/todo-list-review.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/AdrianCSM/To-Do-List/issues"
+      "url": "https://github.com/AdrianCSM/todo-list-review/issues"
     },
-    "homepage": "https://github.com/AdrianCSM/To-Do-List"
+    "homepage": "https://github.com/AdrianCSM/todo-list-review"
   }
   
